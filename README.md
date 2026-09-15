@@ -1,6 +1,7 @@
-**# My Student Portfolio**
+## Skills
 
-
-
-**This is my personal portfolio project.**
-
+- SolidWorks
+- C Programming
+- Python
+- Git & GitHub
+- Digital Manufacturing
